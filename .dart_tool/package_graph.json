@@ -1,0 +1,14 @@
+{
+  "roots": [
+    "flutter_monorepo_boilerplate"
+  ],
+  "packages": [
+    {
+      "name": "flutter_monorepo_boilerplate",
+      "version": "0.0.0",
+      "dependencies": [],
+      "devDependencies": []
+    }
+  ],
+  "configVersion": 1
+}
